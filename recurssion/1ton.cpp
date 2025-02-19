@@ -13,7 +13,7 @@ void print(int n){
 
 int main(){
     int n=10;
-               // int i=1
+      // int i=1
     print(n); //print(i,n);
 
 }
